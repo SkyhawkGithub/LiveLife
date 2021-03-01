@@ -1,0 +1,42 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "done": "Done",
+    "ok": "Ok",
+    "back": "Back",
+    "error": {
+      "cancelledSignInFlow": "You have cancelled the sign-in flow.",
+      "facebookToken": "Something went wrong obtaining access token.",
+      "allowPhotoLibaryAccess": "Turn on photo library permission in your app settings."
+    }
+  },
+  "getStarted": {
+    "title": "Start my journey",
+    "button": {
+      "start": "Start my journey"
+    }
+  },
+  "signIn": {
+    "title": "Sign in",
+    "label": {
+      "or": "or"
+    },
+    "input": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "button": {
+      "logIn": "Log in",
+      "forgotPassword": "Forgot Password?"
+    },
+    "error": {
+      "invalidCredentials": "Email address and password do not match",
+      "invalidEmail": "Invalid email address",
+      "enterEmail": "Please enter a valid email address"
+    },
+    "success": {
+      "loginSuccess": "You have successfully logged in",
+      "emailSentSuccess": "Email sent successfully"
+    }
+  }
+}

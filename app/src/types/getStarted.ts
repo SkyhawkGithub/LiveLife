@@ -1,0 +1,2 @@
+export const GET_STARTED_PRESS = 'GET_STARTED_PRESS';
+

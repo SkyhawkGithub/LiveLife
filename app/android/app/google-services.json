@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722936229403",
+    "firebase_url": "https://livlife-88e41.firebaseio.com",
+    "project_id": "livlife-88e41",
+    "storage_bucket": "livlife-88e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722936229403:android:5099479abfa01384cf92be",
+        "android_client_info": {
+          "package_name": "app.livlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722936229403-4ku97mtnmr2ph1khucesi0lg7l80rnni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.livlife",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "722936229403-sloamic604c8drtu0shp7jivrspch423.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9olxmxs5MLqN8SUiqhAKHhc5HpNJA-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722936229403-sloamic604c8drtu0shp7jivrspch423.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722936229403-rqlsv5rvbfljr8soreonuicm9danbg41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.livlife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
